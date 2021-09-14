@@ -58,7 +58,7 @@ echo"<h1><center><b>RESERVASI TIKET KERETA API</b></center></h1></br>";
 echo"<b>		======= DATA PENUMPANG =======		</b><br>";
 echo"<br>";
 $objpnp = new tiketkai();
-$objpnp ->setNamaLengkap("Nadia<br>");
+$objpnp ->setNamaLengkap("Nadia Rachmasari B<br>");
 $objpnp ->setIdentias("320120300900006");
 $objpnp ->Biodata();
 echo"<br><br/>";
